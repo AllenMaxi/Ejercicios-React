@@ -2,7 +2,7 @@
   "santos": [
     {
       "id": 1,
-      "name": "Seiya",
+      "name": "Seiyaa",
       "constellation": "Pegaso"
     },
     {
@@ -24,11 +24,6 @@
       "id": 5,
       "name": "Ikki",
       "constellation": "Fenix"
-    },
-    {
-      "name": "Mu",
-      "constellation": "Aries",
-      "id": 1627749987263
     }
   ]
 }
